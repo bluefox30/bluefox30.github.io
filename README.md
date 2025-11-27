@@ -1,3 +1,1 @@
-# hdothself.github.io
-
-trucks
+# bluefox30.github.io
