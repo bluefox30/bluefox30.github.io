@@ -1,7 +1,6 @@
 # Funny Jokes 😆
 
 ## Animal Jokes 🐶
-
 <details>
   <summary>Where do dogs hate to shop?</summary>  
   Flea Markets!
@@ -24,7 +23,6 @@
 </details>
 
 ## Sports Jokes 🏀
-
 <details>
   <summary>What kind of shellfish lift weights?</summary>
   Mussels!
@@ -51,4 +49,25 @@
   <summary>What do math teachers eat?</summary>
   Square meals!
 </details>
- 
+<details>
+  <summary>Why did the math teacher stop singing karaoke?</summary>
+  Beacause her number was up!
+</details>
+<details>
+  <summary>When does a duck wake up?</summary>
+  At the quack of dawn!
+</details>
+
+## Dinosaur Jokes 🦖
+<details>
+  <summary>What dinosaur loves pancakes?</summary>
+  A tri-syrup-tops!
+</details>
+<details>
+  <summary>What music do dinosaurs listen to?</summary>
+  Rap-tor music!
+</details>
+<details>
+  <summary>What do you call it when a T.rex scores a goal?</summary>
+  A dino-score!
+</details>
