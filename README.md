@@ -55,10 +55,6 @@
   <summary>Where does a golfer celebrate his birthday?</summary>
   At a tee party!
 </details>
-<details>
-  <summary>Where do dogs hate to shop?</summary>
-  Flea Markets!
-</details>
 
 ## Random Jokes ◕
 <details>
