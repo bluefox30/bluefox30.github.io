@@ -29,4 +29,7 @@
   <summary>What ghost haunts a football team?</summary>
   The team spirit!
 </details>
-
+<details>
+  <summary>Where does a golfer celebrate his birthday?</summary>
+  At a tee party!
+</details>
