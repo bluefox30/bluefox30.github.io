@@ -1,6 +1,6 @@
 # Funny Jokes 😆
 
-## Animal Jokes
+## Animal Jokes 🐶
 
 <details>
   <summary>Where do dogs hate to shop?</summary>  
@@ -18,3 +18,15 @@
   <summary>What is it called when a cat sues another cat?</summary>
   A clawsuit!
 </details>
+
+## Sports Jokes 🏀
+
+<details>
+  <summary>What kind of shellfish lift weights?</summary>
+  Mussels!
+</details>
+<details>
+  <summary>What ghost haunts a football team?</summary>
+  The team spirit!
+</details>
+
