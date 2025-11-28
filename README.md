@@ -20,7 +20,7 @@
 </details>
 <details>
   <summary>What do you get when two giraffes collide?</summary>
-  An oirappic jam!
+  An giraffic jam!
 </details>
 
 ## Sports Jokes 🏀
