@@ -2,6 +2,10 @@
 
 ## Animal Jokes 🐶
 <details>
+  <summary>When is a veterinarian the busiest?</summary>
+  When its raining cats and dogs!
+</details>
+<details>
   <summary>Where do dogs hate to shop?</summary>  
   Flea Markets!
 </details>
