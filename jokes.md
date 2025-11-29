@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Jokes"
+permalink: /joke-page
+---
+
 # Funny Jokes 😆
 
 ## Animal Jokes 🐶
