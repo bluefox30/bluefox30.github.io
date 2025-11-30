@@ -43,7 +43,7 @@ Creating a new character involves understanding the traits they share with you a
 ## Polearms
 <details>
   <summary>Pike</summary>
-  Simple and effective, an inexpensive pike is a great weapon choice for starting heroes who find themselves short on gold. The spike dilivers sharp stabbing damage
+  Simple and effective, an inexpensive pike is a great weapon choice for starting heroes who find themselves short on gold. The spike delivers sharp stabbing damage
   to enemies, and can even be thrown if needed.
 </details>
 <details>
