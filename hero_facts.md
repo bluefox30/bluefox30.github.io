@@ -3,7 +3,7 @@ layout: page
 title: "Hero Facts"
 permalink: /hero-facts
 ---
-## Fantasy Races
+# Fantasy Races
 Creating a new character involves understanding the traits they share with you and the traits they don't.
 <details>
   <summary>Human</summary>
@@ -21,3 +21,9 @@ Creating a new character involves understanding the traits they share with you a
   They typically live for more than 700 years.                        
   Size: Elves are generally a bit shorter than huumans. They are very slender and beautiful.
 </details>
+
+# Weapons
+## Swords
+### Shortsword
+### Longsword
+### Greatsword
