@@ -39,9 +39,15 @@ Creating a new character involves understanding the traits they share with you a
   The greatsword is a mighty weapon requiring immense strength and skill to use effectively. Any untrained heroes may wind up hurting themselves more than their
   opponents if they wade into battle with one of these!
 </details>
+
 ## Polearms
 <details>
   <summary>Glaive</summary>
   The curved hook of a glaive allows it to deal extra damage. You can even use it to snare opponents and pull them in up close! The sharp edge of the blade can be 
   used to stab or slash at foes for even more attack options.
+</details>
+<details>
+  <summary>Halberd</summary>
+  Combining the reach of a pike with the blade of an axe, a halberd opens up even more fighting techniques for a trained warrior. By gripping the staff near the base,
+  you gain a wider range for your slashes, while holding it closer to the blade will deliver blows with a mighty impact.
 </details>
