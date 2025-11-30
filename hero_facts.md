@@ -30,7 +30,9 @@ Creating a new character involves understanding the traits they share with you a
 </details>
 <details>
   <summary>Longsword</summary>
-  The versatile longsword offers a great balance between the speed of a shortsword and the hefty power of a greatsword.
+  The versatile longsword offers a great balance between the speed of a shortsword and the hefty power of a greatsword. As a one-handed weapon, they permit a
+  hero to deliver swift, sharp strikes while allowing for a  shield as extra protection. Used with both hands, longswords focus the full brunt of a warrior's
+  strength into punishing blows.
 </details>
 <details>
   <summary>Greatsword</summary>
