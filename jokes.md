@@ -4,9 +4,9 @@ title: "Jokes"
 permalink: /joke-page
 ---
 
-# Funny Jokes 😆
+# Funny Jokes
 
-## Animal Jokes 🐶
+## Animal Jokes
 <details>
   <summary>What is a pigeons favorite drink?</summary>
   Hot coo-coo!
@@ -48,7 +48,7 @@ permalink: /joke-page
   An giraffic jam!
 </details>
 
-## Sports Jokes 🏀
+## Sports Jokes
 <details>
   <summary>What kind of shellfish lift weights?</summary>
   Mussels!
@@ -62,7 +62,7 @@ permalink: /joke-page
   At a tee party!
 </details>
 
-## Random Jokes ◕
+## Random Jokes
 <details>
   <summary>What did the knights tombstone say?</summary>
   Rust in peace!
@@ -80,7 +80,7 @@ permalink: /joke-page
   At the quack of dawn!
 </details>
 
-## Dinosaur Jokes 🦖
+## Dinosaur Jokes
 <details>
   <summary>What dinosaur loves pancakes?</summary>
   A tri-syrup-tops!
