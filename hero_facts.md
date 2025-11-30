@@ -30,7 +30,7 @@ Creating a new character involves understanding the traits they share with you a
 </details>
 <details>
   <summary>Longsword</summary>
-  h
+  The versatile longsword offers a great balance between the speed of a shortsword and the hefty power of a greatsword.
 </details>
 <details>
   <summary>Greatsword</summary>
