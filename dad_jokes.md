@@ -57,3 +57,7 @@ rooms, the group stayed together in the lobby discussing the day's events and re
   <summary>What's musical and handy in a supermarket?</summary>
   A Chopin Liszt.
 </details>
+<details>
+  <summary>Why does Peter Pan always fly?</summary>
+  He Neverlands.
+</details>
