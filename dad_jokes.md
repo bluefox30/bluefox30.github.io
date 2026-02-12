@@ -38,7 +38,7 @@ rooms, the group stayed together in the lobby discussing the day's events and re
   Because freedom rings.
 </details>
 <details>
-  <summary>who is the strongest theif?</summary>
+  <summary>Who is the strongest thief?</summary>
   A shoplifter.
 </details>
 <details>
