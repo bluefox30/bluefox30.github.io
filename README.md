@@ -5,4 +5,3 @@
 [Hero facts](https://bluefox30.github.io/hero-facts)
 
 
-BIG BIG BIG DOOFUS!!!!!!!!!!!!!!
