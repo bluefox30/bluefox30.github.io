@@ -7,4 +7,4 @@
 
 
 
-no doofus
+not a doofus
