@@ -8,6 +8,5 @@
 
 [Hero facts](https://bluefox30.github.io/hero-facts)
 
-[FIREWALL Home (Only works with a certain WiFi)]
-(http://192.168.68.61)
+[FIREWALL Home (Only works with a certain WiFi)](http://192.168.68.61)
 
