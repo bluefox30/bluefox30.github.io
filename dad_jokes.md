@@ -19,7 +19,7 @@ rooms, the group stayed together in the lobby discussing the day's events and re
 </details>
 <details>
   <summary>Can Febuary march?</summary>
-  No, but april may.
+  No, but April May.
 </details>
 <details>
   <summary>Why can't you have a nose that is twelve inches long?</summary>
