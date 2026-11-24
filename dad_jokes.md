@@ -57,7 +57,7 @@ rooms, the group stayed together in the lobby discussing the day's events and re
   <summary>What's musical and handy in a supermarket?</summary>
   A Chopin Liszt.
 </details>
-##  Beatles Jokes
+## Beatles Jokes
 <details>
   <summary>How often should you listen to The Beatles?</summary>
   Eight days a week.
