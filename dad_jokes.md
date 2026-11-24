@@ -50,7 +50,7 @@ rooms, the group stayed together in the lobby discussing the day's events and re
   Because he heard time flies.
 </details>
 <details>
-  <summary>What do you call a boomerang that dosen't come back?</summary>
+  <summary>What do you call a boomerang that doesn't come back?</summary>
   A stick.
 </details>
 <details>
