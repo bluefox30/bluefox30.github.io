@@ -57,7 +57,24 @@ rooms, the group stayed together in the lobby discussing the day's events and re
   <summary>What's musical and handy in a supermarket?</summary>
   A Chopin Liszt.
 </details>
+## Beatles Jokes
 <details>
-  <summary>Why does Peter Pan always fly?</summary>
-  He Neverlands.
+  <summary>How often should you listen to The Beatles?</summary>
+  Eight days a week.
+</details>
+<details>
+  <summary>I have a problem. I'm addicted to collecting Beatles albums. I almost have them all.</summary>
+  I need Help.
+</details>
+<details>
+  <summary>Would a Swede listen to The Beatles?</summary>
+  No, a Norwegian Wood.
+</details>
+<details>
+  <summary>How far do you have to go to get away from Beatles puns?</summary>
+  Across the Universe.
+</details>
+<details>
+  <summary>I was going to add jokes that aren't about the Beatles but I changed my mind.</summary>
+  I will Let it Be.
 </details>
