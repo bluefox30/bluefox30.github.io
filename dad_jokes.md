@@ -18,7 +18,7 @@ rooms, the group stayed together in the lobby discussing the day's events and re
   Mount Rushmore.
 </details>
 <details>
-  <summary>Can Febuary march?</summary>
+  <summary>Can February March?</summary>
   No, but April May.
 </details>
 <details>
